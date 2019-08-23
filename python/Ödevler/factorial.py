@@ -1,5 +1,4 @@
-## started coding 18.07.2019
-## finished coding 18.07.2019
+## Kullanıcıdan aldığı sayıyı faktöriyel olarak yazar.
 
 number = int(input("Number = ")) ## we get number
 factorial = 1 ## we determine the factorial variable

@@ -1,5 +1,4 @@
-## started coding 19.07.2019
-## finished coding 19.07.2019
+## string'i alfabetik olarak alt alta sıralar.
 
 string = "ULU ÖNDER MUSTAFA KEMAL ATATÜRK 1881"
 words = string.split() 

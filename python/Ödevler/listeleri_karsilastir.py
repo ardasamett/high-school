@@ -1,6 +1,5 @@
 ## 2 Listeyi karşılaştırıp aynı ve farklı olanları basar.
-## started coding 23.08.2019
-## finished coding 23.08.2019
+
 
 liste1 = [1,2,3,4,5,6]
 liste2 = [2,4,6,8,1,6]

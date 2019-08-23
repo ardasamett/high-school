@@ -1,5 +1,4 @@
-## started coding 19.07.2019
-## finished coding 19.07.2019
+## Girilen Sayı kadar aritmetik şekilde yıldız basar
 
 stars = ""
 

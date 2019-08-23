@@ -1,5 +1,4 @@
-## started coding 19.07.2019
-## finished coding 19.07.2019
+## Liste şekilde verilen 2 tane matrix'in aynı elemanlarını toplar ve yazdırır.
 
 matrix_1 = [[1,1,2,5],[0,2,1,4],[1,0,3,6]]  
 matrix_2 = [[0,2,1,2],[1,1,2,3],[0,3,0,1]]
