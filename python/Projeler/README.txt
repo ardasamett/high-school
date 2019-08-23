@@ -1,0 +1,1 @@
+# Öðrendiðim bilgilerle yaptýðým projeler

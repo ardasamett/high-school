@@ -1,0 +1,1 @@
+# Bir çok kaynaktan verilen ödevleri yapýp buraya yüklüyorum.

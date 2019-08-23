@@ -1,0 +1,1 @@
+# Öðrendiðim algoritmalarý python dilinde kodladým.
