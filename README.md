@@ -1,2 +1,2 @@
 # high-school
-I coded this programs in high school
+I coded these programs when I was in high school
